@@ -4,6 +4,9 @@
 //
 //  Created by 沈庭鋒 on 2022/11/11.
 //
+/*
+  在add package的時候要加入 Firebase Auth FirebaseStorageSwift FirebaseStorage FirebaseDatabase
+ */
 
 import UIKit
 import FirebaseAuth
